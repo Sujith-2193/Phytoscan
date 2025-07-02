@@ -83,6 +83,4 @@ export GOOGLE_API_KEY="your-key-here"
 
 ---
 
-## 📜 License
 
-MIT License. Free to use, modify, and distribute for educational and research purposes.
