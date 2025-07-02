@@ -34,7 +34,7 @@ pip install -qU 'google-genai==1.7.0'
 The notebook fetches the following resources using `kagglehub`:
 
 - **Dataset:** [vipoooool/new-plant-diseases-dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-- **Model:** Pre-trained model from [santiagosangrocid/plantdoc_model](https://www.kaggle.com/models/santiagosangrocid/plantdoc_model)
+- **Model:** Pre-trained model
 
 > Make sure you have access to Kaggle and have your API key set up before using `kagglehub`.
 
