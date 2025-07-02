@@ -9,10 +9,10 @@ Phytoscan is an intelligent plant disease detection system powered by deep learn
 
 ##  Features
 
-- 📦 Downloads a plant disease dataset from Kaggle
-- 🧠 Loads a pre-trained Keras model for image-based disease classification
-- 🧑‍🌾 Uses Google's Generative AI SDK (`google-genai`) to generate natural language responses for detected diseases
-- 💬 Provides a simple Gradio-powered chatbot interface for user interaction
+-  Downloads a plant disease dataset from Kaggle
+-  Loads a pre-trained Keras model for image-based disease classification
+-  Uses Google's Generative AI SDK (`google-genai`) to generate natural language responses for detected diseases
+-  Provides a simple Gradio-powered chatbot interface for user interaction
 
 ---
 
