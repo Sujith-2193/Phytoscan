@@ -1,13 +1,13 @@
 # Phytoscan
 
 
-# 🌿 Phytoscan: AI-Powered Plant Disease Detection and Assistant
+#  Phytoscan: AI-Powered Plant Disease Detection and Assistant
 
 Phytoscan is an intelligent plant disease detection system powered by deep learning and generative AI. It uses pre-trained models and an interactive chat interface to identify diseases in plant leaves and offer helpful insights to farmers and researchers.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📦 Downloads a plant disease dataset from Kaggle
 - 🧠 Loads a pre-trained Keras model for image-based disease classification
@@ -16,7 +16,7 @@ Phytoscan is an intelligent plant disease detection system powered by deep learn
 
 ---
 
-## 🧪 Dependencies
+##  Dependencies
 
 Make sure the following packages are installed:
 
@@ -29,7 +29,7 @@ pip install -qU 'google-genai==1.7.0'
 
 ---
 
-## 📥 Dataset and Model
+##  Dataset and Model
 
 The notebook fetches the following resources using `kagglehub`:
 
@@ -40,13 +40,13 @@ The notebook fetches the following resources using `kagglehub`:
 
 ---
 
-## 🧠 Powered by Google GenAI
+##  Powered by Google GenAI
 
 The chatbot functionality uses the **Google Generative AI SDK**, allowing natural-language conversations about detected diseases. It provides insights, tips, and additional information.
 
 ---
 
-## 🖼️ Interface
+##  Interface
 
 The project uses **Gradio** for a simple user interface:
 
@@ -56,7 +56,7 @@ The project uses **Gradio** for a simple user interface:
 
 ---
 
-## 🔒 Note on API Keys
+##  Note on API Keys
 
 To use the Google GenAI SDK:
 
@@ -66,7 +66,7 @@ export GOOGLE_API_KEY="your-key-here"
 
 ---
 
-## 📚 How to Run
+##  How to Run
 
 1. Clone the repo or upload the notebook to Colab/Jupyter
 2. Ensure all dependencies are installed
@@ -75,7 +75,7 @@ export GOOGLE_API_KEY="your-key-here"
 
 ---
 
-## 📌 Credits
+##  Credits
 
 - [Kaggle Datasets and Models](https://kaggle.com)
 - [Google Generative AI SDK](https://ai.google.dev/)
