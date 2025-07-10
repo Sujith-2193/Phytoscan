@@ -81,6 +81,10 @@ export GOOGLE_API_KEY="your-key-here"
 - [Google Generative AI SDK](https://ai.google.dev/)
 - [Gradio](https://www.gradio.app/)
 
+## 🔐 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ---
 
 
